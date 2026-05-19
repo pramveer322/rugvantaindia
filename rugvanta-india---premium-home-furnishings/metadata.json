@@ -1,0 +1,8 @@
+{
+  "name": "Rugvanta India - Premium Home Furnishings",
+  "description": "Premium quality bath mats, door mats, and carpets. Elegant home decor starting with comfort and style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
