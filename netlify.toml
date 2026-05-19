@@ -1,0 +1,4 @@
+[build]
+  base = "rugvanta-india---premium-home-furnishings"
+  publish = "dist"
+  command = "npm run build"
